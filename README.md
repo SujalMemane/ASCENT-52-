@@ -1,0 +1,157 @@
+# ASCENT 52 🧗‍♂️
+### One Year. One Player. Total Upgrade.
+
+ASCENT 52 is a **real-life RPG–style life operating system** that turns 52 weeks into a structured, measurable progression game. 
+
+No motivation. No hype. Only execution, pressure, and visible progress.
+
+---
+
+## 🎯 What Problem This Solves
+ASCENT 52 is built for **high-potential but inconsistent individuals** who:
+* Start strong but lose structure
+* Plan more than they execute
+* Improve vaguely instead of measurably
+* Want discipline without motivational nonsense
+
+This app replaces *hope* with **systems**.
+
+---
+
+## 🧠 Core Philosophy
+* **Systems > Motivation**
+* **Consistency > Intensity**
+* **Execution > Planning**
+* **Visible Progress > Feel-Good Wins**
+* **No Zero Weeks**
+
+ASCENT 52 does not try to make you feel good. It makes you **effective**.
+
+---
+
+## 🕹️ Game Structure
+**YEAR (1)**
+│
+├── **52 Levels (Weeks)**
+│   ├── 7 Days per Level
+│   └── Clear condition: **≥500 XP**
+│
+└── **Permanent Record** (Nothing is erased)
+
+* **Each week is a level**: Progression is binary (Pass/Fail).
+* **Each day produces XP**: Earned through specific, high-leverage actions.
+* **Accountability**: Missed work is recorded, never forgiven.
+
+---
+
+## ⚙️ XP System
+
+### Daily XP Breakdown
+| Category | XP | Mandatory |
+| :--- | :--- | :--- |
+| **Deep Work (2–3h)** | 40 | ✅ |
+| **Physical Training** | 20 | ✅ |
+| **Focus Rules** | 10 | ✅ |
+| **Skill / Study** | 10 | ❌ |
+| **Project Output** | 10 | ❌ |
+| **Planning / Review** | 5 | ❌ |
+| **Sleep ≥ 7h** | 5 | ❌ |
+
+* **Total per day:** `100 XP`
+* **Sunday cap:** `50 XP` (Review & recovery only)
+
+### Weekly XP Rules
+* **Max Potential:** 650 XP
+* **Level Clear:** ≥500 XP
+* **Hard Constraints:** No level repeats. No XP carry-forward. No editing past data.
+
+---
+
+## 🧍 Player Profile
+### Player Card
+* **Player Name / Age**
+* **Current Level:** (Week 1–52)
+* **Current Act:** (I or II)
+* **Total XP Earned**
+* **Active Streaks**
+
+### Player Class: `Builder` (Default)
+* **Traits:** Learns by doing; builds real outputs.
+* **Bonus:** Gains XP multipliers from project execution.
+
+---
+
+## 🧩 Acts (Macro Progression)
+
+### ACT 1 — THE ASCENT (Weeks 1–39)
+**Theme:** Controlled Dominance.
+Focus on skill sharpening, deep work mastery, and physical consistency. One continuous climb.
+
+### ACT 2 — CONVERSION (Weeks 40–52)
+**Theme:** Precision & Results.
+Focus on real-world applications, interviews, and performance peaks. Preparation is converted into outcomes.
+
+---
+
+## 📊 Stats System
+
+| Stat | Meaning |
+| :--- | :--- |
+| **HP** | Health, sleep, and recovery |
+| **DP** | Discipline & consistency |
+| **SP** | Practical skill growth |
+| **KP** | Theoretical knowledge |
+| **FP** | Focus & distraction control |
+
+*Secondary stats like Money and Confidence grow automatically based on Primary execution.*
+
+---
+
+## 📅 Daily Flow
+1.  **Morning:** Deep Work
+2.  **Afternoon:** Study / Skill
+3.  **Evening:** Workout
+4.  **Night:** Review & Shutdown
+
+> ⚠️ **Rule:** Logging happens **after** execution, never before.
+
+---
+
+## 🚫 Penalty System
+Penalties are automated course corrections based on logged data.
+
+| Violation | Penalty |
+| :--- | :--- |
+| **Miss 2 Deep Work days** | Entertainment lock next week |
+| **Skip 3 Workouts** | Mandatory cardio + mobility |
+| **Focus Rule violation** | App/site block for 7 days |
+
+---
+
+## 🏆 Achievements & Streaks
+* **Achievements:** Non-resettable badges (e.g., "Iron Mind" - 14 days of perfect deep work).
+* **Streaks:** Tracked for Daily Execution, Deep Work, and Workouts. Breaking a streak resets the counter but does not erase earned XP.
+
+---
+
+## 📈 Data Visualization
+* Daily & Weekly XP graphs
+* Stat growth timelines
+* Consistency heatmaps
+* **Visual proof drives compliance.**
+
+---
+
+## 📜 Non-Negotiable Rules
+1.  **No editing past data.**
+2.  **No system redesign mid-week.**
+3.  **No zero weeks.**
+4.  **Log only after execution.**
+5.  **If it’s not logged, it didn’t happen.**
+
+---
+
+## 🏁 Endgame — Level 52
+At completion, the system generates a **Full Year Performance Report** and a **Stat Transformation Summary**. ASCENT 52 is designed to end, providing you with the systems to build your own future.
+
+**ASCENT 52 does not guarantee success. It guarantees clarity, pressure, and growth.**
