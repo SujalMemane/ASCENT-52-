@@ -83,14 +83,60 @@ ASCENT 52 does not try to make you feel good. It makes you **effective**.
 
 ## 🧩 Acts (Macro Progression)
 
-### ACT 1 — THE ASCENT (Weeks 1–39)
-**Theme:** Controlled Dominance.
-Focus on skill sharpening, deep work mastery, and physical consistency. One continuous climb.
+## 🏗️ ACT 1: STABILIZATION & CONTROL
+**Levels 1–13** > *“Become reliable before becoming dangerous.”*
 
-### ACT 2 — CONVERSION (Weeks 40–52)
-**Theme:** Precision & Results.
-Focus on real-world applications, interviews, and performance peaks. Preparation is converted into outcomes.
+**Primary Goal:** Eliminate chaos and build an execution identity.
+* **L1–L3:** Initialization, sleep discipline, and distraction awareness.
+* **L4–L6:** Physical lock-in, re-entry to technical skills, and removing motivation-dependence.
+* **L7–L10:** First review, prioritizing output over input, and execution speed.
+* **L11–L13:** Self-trust formation, pressure introduction, and the **Act 1 Boss Level** (Perfect execution).
 
+---
+
+## 🛠️ ACT 2: BUILD & PROVE
+**Levels 14–26** > *“Skill becomes visible through undeniable output.”*
+
+**Primary Goal:** Produce proof of work.
+* **L14–L16:** Builder mode activation, architecture thinking, and daily shipping.
+* **L17–L19:** Complexity handling, tool mastery, and visible public commits/demos.
+* **L20–L23:** Mid-year clarity check, quality refactoring, and confidence calibration.
+* **L24–L26:** Output acceleration and the **Act 2 Boss Level** (One serious, reviewable product).
+
+---
+
+## ⚡ ACT 3: PRESSURE & VISIBILITY
+**Levels 27–39** > *“Perform when it matters. Skill without pressure is incomplete.”*
+
+**Primary Goal:** Become interview-ready and outcome-ready.
+* **L27–L29:** Timed execution, pattern recognition, and honest weakness exposure.
+* **L30–L33:** Targeted fixing, simulated pressure (mock tests), and resume/portfolio reality checks.
+* **L34–L36:** Performance consistency, nerve control, and seeking external feedback.
+* **L37–L39:** Final skill polish and the **Act 3 Boss Level** (Full dry-run of real-world scenarios).
+
+---
+
+## 🎯 ACT 4: CONVERSION & MASTERY
+**Levels 40–52** > *“Precision and results. Convert preparation into outcomes.”*
+
+**Primary Goal:** Finalize the transformation.
+* **L40–L42:** Transition from building to applying; launching the outreach engine.
+* **L43–L45:** Interview loops, rapid feedback integration, and opportunity selection.
+* **L46–L49:** Negotiation readiness, physical/mental peak health, and maximum focus.
+* **L50–L52:** **Outcome Lock-in**, Year-end Reflection, and **Game Completion**.
+
+---
+
+## 📜 The Level Map (Summary)
+
+| Act | Phase | Focus |
+| :--- | :--- | :--- |
+| **I** | **Stabilize** | Routine, Sleep, Deep Work Habits, Physical Base |
+| **II** | **Build** | Projects, Skill Depth, Public Proof, Shipping |
+| **III** | **Pressurize** | Speed, Accuracy, Mock Stress, Communication |
+| **IV** | **Convert** | Applications, Interviews, Negotiations, Results |
+
+---
 ---
 
 ## 📊 Stats System
